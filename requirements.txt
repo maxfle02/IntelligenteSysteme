@@ -1,3 +1,4 @@
+
 fastapi
 pytest
 pydantic==1.10.8
@@ -17,3 +18,4 @@ faiss-cpu
 python-multipart
 semchunk
 tiktoken
+streamlit
